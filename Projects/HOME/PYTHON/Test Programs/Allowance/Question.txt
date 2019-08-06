@@ -1,0 +1,4 @@
+Write a program that reads the basic salary and number of children for 10 employees.
+
+If an employee has more than 5 children, he gets an additional allowance equivalent to 5% of his basic salary. 
+The program calculates and displays the additional allowance for each employee.

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is a website example!</title>
+  </head>
+<body>
+  <!--      ./ can be used instead of the full path when both files are in the same parent folder -->
+  <a href="./index.html">Brown Bears</a>
+  <a href="./aboutme.html">About Me</a>
+  <h1>The Brown Bear</h1>
+  <!-- The target link is a string containing the # character and the target element's id.  An id is especially helpful for organizing content belonging to a div!-->
+  <ul>
+    <li><a href = "#introduction">Introduction</a></li>
+    <li><a href="#habitat">Habitat</a></li>
+    <li><a href= "#media">Media</a></li>
+  </ul>
+  <div id="introduction">
+    <h2>About Brown Bears</h2>
+    <!-- the <em> tag is used for italic and the <strong> tag is used for bold -->
+    <!-- the <br> tag is used to insert a break line -->
+    <p>The brown bear (<em>Ursus arctos</em>) is native to parts of northern Eurasia and North America. Its conservation status is currently <strong>Least Concern</strong>. <br><br> There are many subspecies within the brown bear species, including the Atlas bear and the Himalayan brown bear.</p>
+<!-- to make the link open in a new tab, use the 'target' attribute and set it to "_blank" -->
+    <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">Learn More</a>
+    <h3>Species</h3>
+<!-- the <ul> tag followed by <li> tag is used to initate an unordered list; in atom, ul>li*number of items can be used to be faster -->
+    <ul>
+      <li>Arctos</li>
+      <li>Collarus</li>
+      <li>Horribilis</li>
+      <li>Nelsoni (extinct)</li>
+    </ul>
+    <h3>Features</h3>
+    <p>Brown bears are not always completely brown. Some can be reddish or yellowish. They have very large, curved claws and huge paws. Male brown bears are often 30% larger than female brown bears. They can range from 5 feet to 9 feet from head to toe.</p>
+  </div>
+  <div id="habitat">
+    <h2>Habitat</h2>
+    <!-- the <ol> tag followed by <li> tag is used to initate an ordered list; in atom, ol>li*number of items can be used to be faster -->
+    <h3>Countries with Large Brown Bear Populations</h3>
+    <ol>
+      <li>Russia</li>
+      <li>United States</li>
+      <li>Canada</li>
+    </ol>
+    <h3>Countries with Small Brown Bear Populations</h3>
+    <p>Some countries with smaller brown bear populations include Armenia, Belarus, Bulgaria, China, Finland, France, Greece, India, Japan, Nepal, Poland, Romania, Slovenia, Turkmenistan, and Uzbekistan.</p>
+  </div>
+  <div id="media">
+    <h2>Media</h2>
+    <!-- for images, a closing tag is not necessary as compared to videos -->
+    <!-- the Anchor tag, <a></a> has been added with the target attribute set to _blank so that the image get embedded with the below link and opens in a new tab -->
+    <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">  <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" alt="Image of a brown bear" /> </a>
+   <!-- to insert videos, both the opening and the closing tags must be used -->
+      <video src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" height="240" width="320" controls>
+   <!-- the phrase "Video not supported must be added; this will show up in case the browser cannot display the video" -->
+   Video not supported
+      </video>
+  </div>
+</body>
+</html>
