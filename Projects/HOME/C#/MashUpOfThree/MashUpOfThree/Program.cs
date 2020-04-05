@@ -1,5 +1,5 @@
 ﻿/*
- * StudentID: 1810111
+ * StudentID:
  * Student Name: Yash Djson Dookun
  * Task: Write a C# program that reads three numbers and displays the minimum, maximum, total and average.
  */
