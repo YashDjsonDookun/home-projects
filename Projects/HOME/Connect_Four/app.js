@@ -92,7 +92,7 @@ $(window).ready(function() {
 			nextRow();
 		}
 	}
-
+	//TODO
 	function horizontalWin() {
 
 	}
@@ -107,7 +107,7 @@ $(window).ready(function() {
 			winner();
 		}
 	}
-
+	//TODO
 	function diagonalWin() {
 
 	}
