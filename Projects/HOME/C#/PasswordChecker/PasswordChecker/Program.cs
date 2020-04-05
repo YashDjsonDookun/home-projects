@@ -1,5 +1,5 @@
 ﻿/*
- * StudentID: 1810111
+ * StudentID:
  * StudentName: Yash Djson Dookun
  * Task: 6.	A program that prompts the user to enter the correct password (application development).
  *          A corresponding message should then be displayed (whether or not the password has been correctly entered). 
