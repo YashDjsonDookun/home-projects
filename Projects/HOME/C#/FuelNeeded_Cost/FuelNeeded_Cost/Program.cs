@@ -1,6 +1,6 @@
 ﻿/*
  * Author: Yash Djson Dookun
- * StudentID: 1810111
+ * StudentID: 
  * Task: A system that asks a user to enter the distance of a trip in km,
  *       the km per litre estimate for the user’s car, and the average cost
  *       of a litre of fuel and then calculates and displays the number of

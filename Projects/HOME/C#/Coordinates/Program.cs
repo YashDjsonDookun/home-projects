@@ -1,5 +1,4 @@
 ﻿/*
- * StudentID: 1810111
  * StudentName: Yash Djson Dookun
  * Task: Two points in a plane are specified using the coordinates (x1, y1) and (x2, y2). Write a program that accepts the inputs x1, y1, x2 & y2 and 
  *       (i)	calculates the slope of a line through two non-vertical points entered by the user using m = (y2 – y1)/(x2 – x1), and,

@@ -1,5 +1,4 @@
 ﻿/*
- * StudentID: 1810111
  * StudentName: Yash Djson Dookun
  * Task: Write a C# program that prompts the user for the radius and height of a closed cylinder and
  *       calculates and displays the volume and total surface area of the cylinder

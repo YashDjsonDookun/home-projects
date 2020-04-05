@@ -1,5 +1,4 @@
 ﻿/*
- * StudentID: 1810111
  * StudentName: Yash Djson Dookun
  * Task: 4.	Write a program which finds out the value of a bank deposit, P, 
  *          after n years given that the annual interest on the deposit is r %, assuming that no 
