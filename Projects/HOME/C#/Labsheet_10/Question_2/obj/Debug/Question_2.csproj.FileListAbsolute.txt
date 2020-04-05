@@ -1,0 +1,10 @@
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_2\bin\Debug\Question_2.exe.config
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_2\bin\Debug\Question_2.exe
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_2\bin\Debug\Question_2.pdb
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_2\obj\Debug\Question_2.csprojAssemblyReference.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_2\obj\Debug\Question_2.Properties.Resources.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_2\obj\Debug\Question_2.csproj.GenerateResource.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_2\obj\Debug\Question_2.csproj.CoreCompileInputs.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_2\obj\Debug\Question_2.exe
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_2\obj\Debug\Question_2.pdb
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_2\obj\Debug\Question_2.Question2.resources

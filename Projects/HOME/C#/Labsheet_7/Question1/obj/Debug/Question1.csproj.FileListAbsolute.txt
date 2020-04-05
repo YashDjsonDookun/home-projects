@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\Labsheet7\Question1\bin\Debug\Question1.exe.config
+U:\Documents\Projects\HOME\C#\Labsheet7\Question1\bin\Debug\Question1.exe
+U:\Documents\Projects\HOME\C#\Labsheet7\Question1\bin\Debug\Question1.pdb
+U:\Documents\Projects\HOME\C#\Labsheet7\Question1\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\Labsheet7\Question1\obj\Debug\Question1.exe
+U:\Documents\Projects\HOME\C#\Labsheet7\Question1\obj\Debug\Question1.pdb
+U:\Documents\Projects\HOME\C#\Labsheet7\Question1\obj\Debug\Question1.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\FuelNeeded_Cost\FuelNeeded_Cost\bin\Debug\FuelNeeded_Cost.exe.config
+U:\Documents\Projects\HOME\C#\FuelNeeded_Cost\FuelNeeded_Cost\bin\Debug\FuelNeeded_Cost.exe
+U:\Documents\Projects\HOME\C#\FuelNeeded_Cost\FuelNeeded_Cost\bin\Debug\FuelNeeded_Cost.pdb
+U:\Documents\Projects\HOME\C#\FuelNeeded_Cost\FuelNeeded_Cost\obj\Debug\FuelNeeded_Cost.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\FuelNeeded_Cost\FuelNeeded_Cost\obj\Debug\FuelNeeded_Cost.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\FuelNeeded_Cost\FuelNeeded_Cost\obj\Debug\FuelNeeded_Cost.exe
+U:\Documents\Projects\HOME\C#\FuelNeeded_Cost\FuelNeeded_Cost\obj\Debug\FuelNeeded_Cost.pdb

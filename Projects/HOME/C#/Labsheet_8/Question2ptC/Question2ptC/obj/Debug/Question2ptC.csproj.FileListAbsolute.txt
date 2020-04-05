@@ -1,0 +1,10 @@
+C:\Users\dooku\source\repos\Question2ptC\Question2ptC\bin\Debug\Question2ptC.exe.config
+C:\Users\dooku\source\repos\Question2ptC\Question2ptC\bin\Debug\Question2ptC.exe
+C:\Users\dooku\source\repos\Question2ptC\Question2ptC\bin\Debug\Question2ptC.pdb
+C:\Users\dooku\source\repos\Question2ptC\Question2ptC\obj\Debug\Question2ptC.csprojAssemblyReference.cache
+C:\Users\dooku\source\repos\Question2ptC\Question2ptC\obj\Debug\Question2ptC.Fruit_List.resources
+C:\Users\dooku\source\repos\Question2ptC\Question2ptC\obj\Debug\Question2ptC.Properties.Resources.resources
+C:\Users\dooku\source\repos\Question2ptC\Question2ptC\obj\Debug\Question2ptC.csproj.GenerateResource.cache
+C:\Users\dooku\source\repos\Question2ptC\Question2ptC\obj\Debug\Question2ptC.csproj.CoreCompileInputs.cache
+C:\Users\dooku\source\repos\Question2ptC\Question2ptC\obj\Debug\Question2ptC.exe
+C:\Users\dooku\source\repos\Question2ptC\Question2ptC\obj\Debug\Question2ptC.pdb

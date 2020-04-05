@@ -1,0 +1,7 @@
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_1_b\obj\Debug\Question_1_b.csprojAssemblyReference.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_1_b\obj\Debug\Question_1_b.csproj.CoreCompileInputs.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_1_b\bin\Debug\Question_1_b.exe.config
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_1_b\bin\Debug\Question_1_b.exe
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_1_b\bin\Debug\Question_1_b.pdb
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_1_b\obj\Debug\Question_1_b.exe
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_10\Question_1_b\obj\Debug\Question_1_b.pdb

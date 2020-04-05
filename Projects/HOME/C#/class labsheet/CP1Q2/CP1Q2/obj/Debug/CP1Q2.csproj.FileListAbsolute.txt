@@ -1,0 +1,9 @@
+U:\Documents\Projects\HOME\C#\CP1Q2\CP1Q2\obj\Debug\CP1Q2.Form1.resources
+U:\Documents\Projects\HOME\C#\CP1Q2\CP1Q2\obj\Debug\CP1Q2.Properties.Resources.resources
+U:\Documents\Projects\HOME\C#\CP1Q2\CP1Q2\obj\Debug\CP1Q2.csproj.GenerateResource.cache
+U:\Documents\Projects\HOME\C#\CP1Q2\CP1Q2\obj\Debug\CP1Q2.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\CP1Q2\CP1Q2\bin\Debug\CP1Q2.exe.config
+U:\Documents\Projects\HOME\C#\CP1Q2\CP1Q2\bin\Debug\CP1Q2.exe
+U:\Documents\Projects\HOME\C#\CP1Q2\CP1Q2\bin\Debug\CP1Q2.pdb
+U:\Documents\Projects\HOME\C#\CP1Q2\CP1Q2\obj\Debug\CP1Q2.exe
+U:\Documents\Projects\HOME\C#\CP1Q2\CP1Q2\obj\Debug\CP1Q2.pdb

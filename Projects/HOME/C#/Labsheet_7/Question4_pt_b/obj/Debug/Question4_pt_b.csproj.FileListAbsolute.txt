@@ -1,0 +1,9 @@
+U:\Documents\Projects\HOME\C#\Labsheet7\Question4_pt_b\bin\Debug\Question4_pt_b.exe.config
+U:\Documents\Projects\HOME\C#\Labsheet7\Question4_pt_b\bin\Debug\Question4_pt_b.exe
+U:\Documents\Projects\HOME\C#\Labsheet7\Question4_pt_b\bin\Debug\Question4_pt_b.pdb
+U:\Documents\Projects\HOME\C#\Labsheet7\Question4_pt_b\obj\Debug\Question4_pt_b.Form1.resources
+U:\Documents\Projects\HOME\C#\Labsheet7\Question4_pt_b\obj\Debug\Question4_pt_b.Properties.Resources.resources
+U:\Documents\Projects\HOME\C#\Labsheet7\Question4_pt_b\obj\Debug\Question4_pt_b.csproj.GenerateResource.cache
+U:\Documents\Projects\HOME\C#\Labsheet7\Question4_pt_b\obj\Debug\Question4_pt_b.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\Labsheet7\Question4_pt_b\obj\Debug\Question4_pt_b.exe
+U:\Documents\Projects\HOME\C#\Labsheet7\Question4_pt_b\obj\Debug\Question4_pt_b.pdb

@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question4_MonthsDays\bin\Debug\Question4_MonthsDays.exe.config
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question4_MonthsDays\bin\Debug\Question4_MonthsDays.exe
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question4_MonthsDays\bin\Debug\Question4_MonthsDays.pdb
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question4_MonthsDays\obj\Debug\Question4_MonthsDays.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question4_MonthsDays\obj\Debug\Question4_MonthsDays.exe
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question4_MonthsDays\obj\Debug\Question4_MonthsDays.pdb
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question4_MonthsDays\obj\Debug\Question4_MonthsDays.csprojAssemblyReference.cache

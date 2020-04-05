@@ -1,0 +1,10 @@
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question2ptB\Question2ptB\bin\Debug\Question2ptB.exe.config
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question2ptB\Question2ptB\bin\Debug\Question2ptB.exe
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question2ptB\Question2ptB\bin\Debug\Question2ptB.pdb
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question2ptB\Question2ptB\obj\Debug\Question2ptB.csprojAssemblyReference.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question2ptB\Question2ptB\obj\Debug\Question2ptB.Fruit_List.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question2ptB\Question2ptB\obj\Debug\Question2ptB.Properties.Resources.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question2ptB\Question2ptB\obj\Debug\Question2ptB.csproj.GenerateResource.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question2ptB\Question2ptB\obj\Debug\Question2ptB.csproj.CoreCompileInputs.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question2ptB\Question2ptB\obj\Debug\Question2ptB.exe
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question2ptB\Question2ptB\obj\Debug\Question2ptB.pdb

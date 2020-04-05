@@ -1,0 +1,30 @@
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.csprojAssemblyReference.cache
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.Properties.Resources.resources
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.csproj.GenerateResource.cache
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.csproj.CoreCompileInputs.cache
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\bin\Debug\ClassPractice1.exe.config
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\bin\Debug\ClassPractice1.exe
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\bin\Debug\ClassPractice1.pdb
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.exe
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.pdb
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.frmCircleArea.resources
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.frmPointsPlane.resources
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.frmTemperature.resources
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.frmFuel.resources
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.Cylinder.resources
+C:\Users\Kervin Ramen\source\repos\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.frmStartUP.resources
+U:\Desktop\ClassPractice1\ClassPractice1\bin\Debug\ClassPractice1.exe.config
+U:\Desktop\ClassPractice1\ClassPractice1\bin\Debug\ClassPractice1.exe
+U:\Desktop\ClassPractice1\ClassPractice1\bin\Debug\ClassPractice1.pdb
+U:\Desktop\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.csprojAssemblyReference.cache
+U:\Desktop\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.frmCircleArea.resources
+U:\Desktop\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.Cylinder.resources
+U:\Desktop\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.frmFuel.resources
+U:\Desktop\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.frmPointsPlane.resources
+U:\Desktop\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.Properties.Resources.resources
+U:\Desktop\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.frmStartUP.resources
+U:\Desktop\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.frmTemperature.resources
+U:\Desktop\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.csproj.GenerateResource.cache
+U:\Desktop\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.csproj.CoreCompileInputs.cache
+U:\Desktop\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.exe
+U:\Desktop\ClassPractice1\ClassPractice1\obj\Debug\ClassPractice1.pdb

@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\TemperatureInsideEarth\TemperatureInsideEarth\bin\Debug\TemperatureInsideEarth.exe.config
+U:\Documents\Projects\HOME\C#\TemperatureInsideEarth\TemperatureInsideEarth\bin\Debug\TemperatureInsideEarth.exe
+U:\Documents\Projects\HOME\C#\TemperatureInsideEarth\TemperatureInsideEarth\bin\Debug\TemperatureInsideEarth.pdb
+U:\Documents\Projects\HOME\C#\TemperatureInsideEarth\TemperatureInsideEarth\obj\Debug\TemperatureInsideEarth.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\TemperatureInsideEarth\TemperatureInsideEarth\obj\Debug\TemperatureInsideEarth.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\TemperatureInsideEarth\TemperatureInsideEarth\obj\Debug\TemperatureInsideEarth.exe
+U:\Documents\Projects\HOME\C#\TemperatureInsideEarth\TemperatureInsideEarth\obj\Debug\TemperatureInsideEarth.pdb

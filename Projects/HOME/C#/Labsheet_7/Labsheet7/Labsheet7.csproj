@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9B20F094-3777-40F7-9B44-D3944631AB57}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Labsheet7</RootNamespace>
+    <AssemblyName>Labsheet7</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Question1\Question1.csproj">
+      <Project>{4d55baae-4b9a-48c1-b9dd-4cb1b2aada26}</Project>
+      <Name>Question1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Question2\Question2.csproj">
+      <Project>{71521fd9-902b-4546-9934-ef1836bb4fb5}</Project>
+      <Name>Question2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Question3\Question3.csproj">
+      <Project>{3aa317ee-6723-4c31-8fe9-d04dbc1c6b79}</Project>
+      <Name>Question3</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Question3_pt_b\Question3_pt_b.csproj">
+      <Project>{dec9b6db-06b6-4fa9-90c5-a993ffe01d8e}</Project>
+      <Name>Question3_pt_b</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Question4\Question4.csproj">
+      <Project>{e1a865aa-5801-4957-9d59-4d630f350cd2}</Project>
+      <Name>Question4</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Question4_pt_b\Question4_pt_b.csproj">
+      <Project>{9333cfcc-0d97-468b-838b-b1c5918d7aff}</Project>
+      <Name>Question4_pt_b</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Question5\Question5.csproj">
+      <Project>{b97bf858-e642-4d88-83ee-4941d1dc795c}</Project>
+      <Name>Question5</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Question6\Question6.csproj">
+      <Project>{a0bc826a-8db9-46c7-8b84-d9c18df27f83}</Project>
+      <Name>Question6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Question7\Question7.csproj">
+      <Project>{7c3afe85-1235-4991-888b-5b3042bba360}</Project>
+      <Name>Question7</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Question7_pt_b\Question7_pt_b.csproj">
+      <Project>{3318c7fa-66c3-4912-9d65-33a3c782deca}</Project>
+      <Name>Question7_pt_b</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Question7_pt_c\Question7_pt_c.csproj">
+      <Project>{2dcd3635-2e29-432c-96a3-850727ca264d}</Project>
+      <Name>Question7_pt_c</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

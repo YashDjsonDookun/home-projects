@@ -1,0 +1,17 @@
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\bin\Debug\Labsheet_11.exe.config
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\bin\Debug\Labsheet_11.exe
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\bin\Debug\Labsheet_11.pdb
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.Vowels_and_Consonants.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.Properties.Resources.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.csproj.GenerateResource.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.csproj.CoreCompileInputs.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.exe
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.pdb
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.Labsheet_11.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.FirstName.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.FirstNameB.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.NameExtractorA.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.csprojAssemblyReference.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.NameExtractorB.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.NameSplitter.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_11\Labsheet_11\obj\Debug\Labsheet_11.SIS.resources

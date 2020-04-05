@@ -1,0 +1,6 @@
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question2_MinMaxTotalAvg\bin\Debug\Question2_MinMaxTotalAvg.exe.config
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question2_MinMaxTotalAvg\bin\Debug\Question2_MinMaxTotalAvg.exe
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question2_MinMaxTotalAvg\bin\Debug\Question2_MinMaxTotalAvg.pdb
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question2_MinMaxTotalAvg\obj\Debug\Question2_MinMaxTotalAvg.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question2_MinMaxTotalAvg\obj\Debug\Question2_MinMaxTotalAvg.exe
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question2_MinMaxTotalAvg\obj\Debug\Question2_MinMaxTotalAvg.pdb

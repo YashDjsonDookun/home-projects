@@ -1,0 +1,11 @@
+U:\Documents\Projects\HOME\C#\Coordinates\bin\Debug\netcoreapp2.2\Coordinates.deps.json
+U:\Documents\Projects\HOME\C#\Coordinates\bin\Debug\netcoreapp2.2\Coordinates.runtimeconfig.json
+U:\Documents\Projects\HOME\C#\Coordinates\bin\Debug\netcoreapp2.2\Coordinates.runtimeconfig.dev.json
+U:\Documents\Projects\HOME\C#\Coordinates\bin\Debug\netcoreapp2.2\Coordinates.dll
+U:\Documents\Projects\HOME\C#\Coordinates\bin\Debug\netcoreapp2.2\Coordinates.pdb
+U:\Documents\Projects\HOME\C#\Coordinates\obj\Debug\netcoreapp2.2\Coordinates.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\Coordinates\obj\Debug\netcoreapp2.2\Coordinates.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\Coordinates\obj\Debug\netcoreapp2.2\Coordinates.AssemblyInfoInputs.cache
+U:\Documents\Projects\HOME\C#\Coordinates\obj\Debug\netcoreapp2.2\Coordinates.AssemblyInfo.cs
+U:\Documents\Projects\HOME\C#\Coordinates\obj\Debug\netcoreapp2.2\Coordinates.dll
+U:\Documents\Projects\HOME\C#\Coordinates\obj\Debug\netcoreapp2.2\Coordinates.pdb

@@ -1,0 +1,14 @@
+U:\Documents\Projects\HOME\C#\Cylinder\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+U:\Documents\Projects\HOME\C#\Cylinder\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+U:\Documents\Projects\HOME\C#\Cylinder\bin\Debug\netcoreapp2.2\win10-x64\Cylinder.exe
+U:\Documents\Projects\HOME\C#\Cylinder\bin\Debug\netcoreapp2.2\win10-x64\Cylinder.deps.json
+U:\Documents\Projects\HOME\C#\Cylinder\bin\Debug\netcoreapp2.2\win10-x64\Cylinder.runtimeconfig.json
+U:\Documents\Projects\HOME\C#\Cylinder\bin\Debug\netcoreapp2.2\win10-x64\Cylinder.runtimeconfig.dev.json
+U:\Documents\Projects\HOME\C#\Cylinder\bin\Debug\netcoreapp2.2\win10-x64\Cylinder.dll
+U:\Documents\Projects\HOME\C#\Cylinder\bin\Debug\netcoreapp2.2\win10-x64\Cylinder.pdb
+U:\Documents\Projects\HOME\C#\Cylinder\obj\Debug\netcoreapp2.2\win10-x64\Cylinder.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\Cylinder\obj\Debug\netcoreapp2.2\win10-x64\Cylinder.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\Cylinder\obj\Debug\netcoreapp2.2\win10-x64\Cylinder.AssemblyInfoInputs.cache
+U:\Documents\Projects\HOME\C#\Cylinder\obj\Debug\netcoreapp2.2\win10-x64\Cylinder.AssemblyInfo.cs
+U:\Documents\Projects\HOME\C#\Cylinder\obj\Debug\netcoreapp2.2\win10-x64\Cylinder.dll
+U:\Documents\Projects\HOME\C#\Cylinder\obj\Debug\netcoreapp2.2\win10-x64\Cylinder.pdb

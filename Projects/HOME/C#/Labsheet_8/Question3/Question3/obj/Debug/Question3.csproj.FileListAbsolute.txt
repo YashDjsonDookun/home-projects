@@ -1,0 +1,11 @@
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question3\Question3\bin\Debug\Question3.exe.config
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question3\Question3\bin\Debug\Question3.exe
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question3\Question3\bin\Debug\Question3.pdb
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question3\Question3\obj\Debug\Question3.csprojAssemblyReference.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question3\Question3\obj\Debug\Question3.frmIncome.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question3\Question3\obj\Debug\Question3.Properties.Resources.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question3\Question3\obj\Debug\Question3.csproj.GenerateResource.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question3\Question3\obj\Debug\Question3.csproj.CoreCompileInputs.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question3\Question3\obj\Debug\Question3.exe
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question3\Question3\obj\Debug\Question3.pdb
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Labsheet_8\Question3\Question3\obj\Debug\Question3.frmSources.resources

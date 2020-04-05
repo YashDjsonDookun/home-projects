@@ -1,0 +1,17 @@
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\bin\x64\Release\Musica.exe.config
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\bin\x64\Release\Musica.exe
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\bin\x64\Release\Musica.pdb
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\bin\x64\Release\Bunifu_UI_v1.52.dll
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\bin\x64\Release\Interop.WMPLib.dll
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\bin\x64\Release\AxInterop.WMPLib.dll
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\obj\x64\Release\Interop.WMPLib.dll
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\obj\x64\Release\AxInterop.WMPLib.dll
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\obj\x64\Release\Musica.csproj.ResolveComReference.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\obj\x64\Release\Musica.Home.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\obj\x64\Release\Musica.LoginForm.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\obj\x64\Release\Musica.Properties.Resources.resources
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\obj\x64\Release\Musica.csproj.GenerateResource.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\obj\x64\Release\Musica.csproj.CoreCompileInputs.cache
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\obj\x64\Release\Musica.csproj.CopyComplete
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\obj\x64\Release\Musica.exe
+E:\University\YEAR 2\LLC 2300Y - Visual Programming Techniques\Musica\Musica\obj\x64\Release\Musica.pdb
