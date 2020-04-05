@@ -1,7 +1,0 @@
-U:\Documents\Projects\HOME\C#\Automation\Automation\bin\Debug\Automation.exe.config
-U:\Documents\Projects\HOME\C#\Automation\Automation\bin\Debug\Automation.exe
-U:\Documents\Projects\HOME\C#\Automation\Automation\bin\Debug\Automation.pdb
-U:\Documents\Projects\HOME\C#\Automation\Automation\obj\Debug\Automation.csprojAssemblyReference.cache
-U:\Documents\Projects\HOME\C#\Automation\Automation\obj\Debug\Automation.csproj.CoreCompileInputs.cache
-U:\Documents\Projects\HOME\C#\Automation\Automation\obj\Debug\Automation.exe
-U:\Documents\Projects\HOME\C#\Automation\Automation\obj\Debug\Automation.pdb
