@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\LargestOfThree\LargestOfThree\bin\Debug\LargestOfThree.exe.config
+U:\Documents\Projects\HOME\C#\LargestOfThree\LargestOfThree\bin\Debug\LargestOfThree.exe
+U:\Documents\Projects\HOME\C#\LargestOfThree\LargestOfThree\bin\Debug\LargestOfThree.pdb
+U:\Documents\Projects\HOME\C#\LargestOfThree\LargestOfThree\obj\Debug\LargestOfThree.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\LargestOfThree\LargestOfThree\obj\Debug\LargestOfThree.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\LargestOfThree\LargestOfThree\obj\Debug\LargestOfThree.exe
+U:\Documents\Projects\HOME\C#\LargestOfThree\LargestOfThree\obj\Debug\LargestOfThree.pdb

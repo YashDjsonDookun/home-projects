@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\FriendChallenge\FriendChallenge\bin\Debug\FriendChallenge.exe.config
+U:\Documents\Projects\HOME\C#\FriendChallenge\FriendChallenge\bin\Debug\FriendChallenge.exe
+U:\Documents\Projects\HOME\C#\FriendChallenge\FriendChallenge\bin\Debug\FriendChallenge.pdb
+U:\Documents\Projects\HOME\C#\FriendChallenge\FriendChallenge\obj\Debug\FriendChallenge.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\FriendChallenge\FriendChallenge\obj\Debug\FriendChallenge.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\FriendChallenge\FriendChallenge\obj\Debug\FriendChallenge.exe
+U:\Documents\Projects\HOME\C#\FriendChallenge\FriendChallenge\obj\Debug\FriendChallenge.pdb

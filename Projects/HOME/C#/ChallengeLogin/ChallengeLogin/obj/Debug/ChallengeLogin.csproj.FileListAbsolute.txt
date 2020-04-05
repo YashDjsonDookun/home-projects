@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\ChallengeLogin\ChallengeLogin\bin\Debug\ChallengeLogin.exe.config
+U:\Documents\Projects\HOME\C#\ChallengeLogin\ChallengeLogin\bin\Debug\ChallengeLogin.exe
+U:\Documents\Projects\HOME\C#\ChallengeLogin\ChallengeLogin\bin\Debug\ChallengeLogin.pdb
+U:\Documents\Projects\HOME\C#\ChallengeLogin\ChallengeLogin\obj\Debug\ChallengeLogin.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\ChallengeLogin\ChallengeLogin\obj\Debug\ChallengeLogin.exe
+U:\Documents\Projects\HOME\C#\ChallengeLogin\ChallengeLogin\obj\Debug\ChallengeLogin.pdb
+U:\Documents\Projects\HOME\C#\ChallengeLogin\ChallengeLogin\obj\Debug\ChallengeLogin.csprojAssemblyReference.cache

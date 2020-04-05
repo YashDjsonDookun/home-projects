@@ -1,0 +1,10 @@
+U:\Documents\Projects\HOME\C#\WordUnscrambler\bin\Release\netcoreapp2.2\WordUnscrambler.deps.json
+U:\Documents\Projects\HOME\C#\WordUnscrambler\bin\Release\netcoreapp2.2\WordUnscrambler.runtimeconfig.json
+U:\Documents\Projects\HOME\C#\WordUnscrambler\bin\Release\netcoreapp2.2\WordUnscrambler.runtimeconfig.dev.json
+U:\Documents\Projects\HOME\C#\WordUnscrambler\bin\Release\netcoreapp2.2\WordUnscrambler.dll
+U:\Documents\Projects\HOME\C#\WordUnscrambler\bin\Release\netcoreapp2.2\WordUnscrambler.pdb
+U:\Documents\Projects\HOME\C#\WordUnscrambler\obj\Release\netcoreapp2.2\WordUnscrambler.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\WordUnscrambler\obj\Release\netcoreapp2.2\WordUnscrambler.AssemblyInfoInputs.cache
+U:\Documents\Projects\HOME\C#\WordUnscrambler\obj\Release\netcoreapp2.2\WordUnscrambler.AssemblyInfo.cs
+U:\Documents\Projects\HOME\C#\WordUnscrambler\obj\Release\netcoreapp2.2\WordUnscrambler.dll
+U:\Documents\Projects\HOME\C#\WordUnscrambler\obj\Release\netcoreapp2.2\WordUnscrambler.pdb

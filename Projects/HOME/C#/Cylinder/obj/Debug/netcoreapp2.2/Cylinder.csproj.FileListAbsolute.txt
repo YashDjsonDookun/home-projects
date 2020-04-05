@@ -1,0 +1,11 @@
+U:\Documents\Projects\HOME\C#\Cylinder\bin\Debug\netcoreapp2.2\Cylinder.deps.json
+U:\Documents\Projects\HOME\C#\Cylinder\bin\Debug\netcoreapp2.2\Cylinder.runtimeconfig.json
+U:\Documents\Projects\HOME\C#\Cylinder\bin\Debug\netcoreapp2.2\Cylinder.runtimeconfig.dev.json
+U:\Documents\Projects\HOME\C#\Cylinder\bin\Debug\netcoreapp2.2\Cylinder.dll
+U:\Documents\Projects\HOME\C#\Cylinder\bin\Debug\netcoreapp2.2\Cylinder.pdb
+U:\Documents\Projects\HOME\C#\Cylinder\obj\Debug\netcoreapp2.2\Cylinder.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\Cylinder\obj\Debug\netcoreapp2.2\Cylinder.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\Cylinder\obj\Debug\netcoreapp2.2\Cylinder.AssemblyInfoInputs.cache
+U:\Documents\Projects\HOME\C#\Cylinder\obj\Debug\netcoreapp2.2\Cylinder.AssemblyInfo.cs
+U:\Documents\Projects\HOME\C#\Cylinder\obj\Debug\netcoreapp2.2\Cylinder.dll
+U:\Documents\Projects\HOME\C#\Cylinder\obj\Debug\netcoreapp2.2\Cylinder.pdb

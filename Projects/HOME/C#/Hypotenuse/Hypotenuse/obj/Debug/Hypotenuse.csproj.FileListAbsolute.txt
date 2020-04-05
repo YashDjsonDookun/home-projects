@@ -1,0 +1,10 @@
+U:\Documents\Projects\HOME\C#\Hypotenuse\Hypotenuse\bin\Debug\Hypotenuse.exe.config
+U:\Documents\Projects\HOME\C#\Hypotenuse\Hypotenuse\bin\Debug\Hypotenuse.exe
+U:\Documents\Projects\HOME\C#\Hypotenuse\Hypotenuse\bin\Debug\Hypotenuse.pdb
+U:\Documents\Projects\HOME\C#\Hypotenuse\Hypotenuse\obj\Debug\Hypotenuse.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\Hypotenuse\Hypotenuse\obj\Debug\Hypotenuse.RightTriangle.resources
+U:\Documents\Projects\HOME\C#\Hypotenuse\Hypotenuse\obj\Debug\Hypotenuse.Properties.Resources.resources
+U:\Documents\Projects\HOME\C#\Hypotenuse\Hypotenuse\obj\Debug\Hypotenuse.csproj.GenerateResource.cache
+U:\Documents\Projects\HOME\C#\Hypotenuse\Hypotenuse\obj\Debug\Hypotenuse.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\Hypotenuse\Hypotenuse\obj\Debug\Hypotenuse.exe
+U:\Documents\Projects\HOME\C#\Hypotenuse\Hypotenuse\obj\Debug\Hypotenuse.pdb

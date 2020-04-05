@@ -1,0 +1,9 @@
+U:\Documents\Projects\HOME\C#\OnlineSession\OnlineSession\bin\Debug\OnlineSession.exe.config
+U:\Documents\Projects\HOME\C#\OnlineSession\OnlineSession\bin\Debug\OnlineSession.exe
+U:\Documents\Projects\HOME\C#\OnlineSession\OnlineSession\bin\Debug\OnlineSession.pdb
+U:\Documents\Projects\HOME\C#\OnlineSession\OnlineSession\obj\Debug\OnlineSession.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\OnlineSession\OnlineSession\obj\Debug\OnlineSession.Form1.resources
+U:\Documents\Projects\HOME\C#\OnlineSession\OnlineSession\obj\Debug\OnlineSession.Properties.Resources.resources
+U:\Documents\Projects\HOME\C#\OnlineSession\OnlineSession\obj\Debug\OnlineSession.csproj.GenerateResource.cache
+U:\Documents\Projects\HOME\C#\OnlineSession\OnlineSession\obj\Debug\OnlineSession.exe
+U:\Documents\Projects\HOME\C#\OnlineSession\OnlineSession\obj\Debug\OnlineSession.pdb

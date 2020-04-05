@@ -27,14 +27,13 @@ print ('Sorted list:',lst)
 
 
 def TryAgain():
-    response = str(input("Add additional numbers to the list? [Y/N]: "))
-    response.upper
+    response = str(input("Add additional numbers to the list? [Y/N]: ")).upper()
 
-    if response == 'y':
+    if response == 'Y':
        bubble()
        print ('Final Sorted list:',lst)
        TryAgain()
-    elif response == 'n':
+    elif response == 'N':
         print ('Goodbye!')
         StopIteration
     else:

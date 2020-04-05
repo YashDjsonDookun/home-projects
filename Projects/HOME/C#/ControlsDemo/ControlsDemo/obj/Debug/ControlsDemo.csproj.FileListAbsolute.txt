@@ -1,0 +1,10 @@
+U:\Documents\Projects\HOME\C#\ControlsDemo\ControlsDemo\bin\Debug\ControlsDemo.exe.config
+U:\Documents\Projects\HOME\C#\ControlsDemo\ControlsDemo\bin\Debug\ControlsDemo.exe
+U:\Documents\Projects\HOME\C#\ControlsDemo\ControlsDemo\bin\Debug\ControlsDemo.pdb
+U:\Documents\Projects\HOME\C#\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.Properties.Resources.resources
+U:\Documents\Projects\HOME\C#\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.csproj.GenerateResource.cache
+U:\Documents\Projects\HOME\C#\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.exe
+U:\Documents\Projects\HOME\C#\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.pdb
+U:\Documents\Projects\HOME\C#\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.ControlsDemo.resources

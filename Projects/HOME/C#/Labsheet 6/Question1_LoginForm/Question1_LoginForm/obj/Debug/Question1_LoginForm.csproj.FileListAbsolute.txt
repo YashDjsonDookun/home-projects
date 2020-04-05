@@ -1,0 +1,9 @@
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question1_LoginForm\Question1_LoginForm\bin\Debug\Question1_LoginForm.exe.config
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question1_LoginForm\Question1_LoginForm\bin\Debug\Question1_LoginForm.exe
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question1_LoginForm\Question1_LoginForm\bin\Debug\Question1_LoginForm.pdb
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question1_LoginForm\Question1_LoginForm\obj\Debug\Question1_LoginForm.Form1.resources
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question1_LoginForm\Question1_LoginForm\obj\Debug\Question1_LoginForm.Properties.Resources.resources
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question1_LoginForm\Question1_LoginForm\obj\Debug\Question1_LoginForm.csproj.GenerateResource.cache
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question1_LoginForm\Question1_LoginForm\obj\Debug\Question1_LoginForm.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question1_LoginForm\Question1_LoginForm\obj\Debug\Question1_LoginForm.exe
+U:\Documents\Projects\HOME\C#\Labsheet 6\Question1_LoginForm\Question1_LoginForm\obj\Debug\Question1_LoginForm.pdb

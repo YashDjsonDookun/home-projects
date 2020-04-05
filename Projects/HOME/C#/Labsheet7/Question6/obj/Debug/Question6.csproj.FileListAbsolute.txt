@@ -1,0 +1,10 @@
+U:\Documents\Projects\HOME\C#\Labsheet7\Question6\bin\Debug\Question6.exe.config
+U:\Documents\Projects\HOME\C#\Labsheet7\Question6\bin\Debug\Question6.exe
+U:\Documents\Projects\HOME\C#\Labsheet7\Question6\bin\Debug\Question6.pdb
+U:\Documents\Projects\HOME\C#\Labsheet7\Question6\obj\Debug\Question6.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\Labsheet7\Question6\obj\Debug\Question6.Question6.resources
+U:\Documents\Projects\HOME\C#\Labsheet7\Question6\obj\Debug\Question6.Properties.Resources.resources
+U:\Documents\Projects\HOME\C#\Labsheet7\Question6\obj\Debug\Question6.csproj.GenerateResource.cache
+U:\Documents\Projects\HOME\C#\Labsheet7\Question6\obj\Debug\Question6.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\Labsheet7\Question6\obj\Debug\Question6.exe
+U:\Documents\Projects\HOME\C#\Labsheet7\Question6\obj\Debug\Question6.pdb

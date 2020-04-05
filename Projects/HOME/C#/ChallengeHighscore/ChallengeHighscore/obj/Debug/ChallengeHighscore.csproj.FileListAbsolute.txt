@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\ChallengeHighscore\ChallengeHighscore\bin\Debug\ChallengeHighscore.exe.config
+U:\Documents\Projects\HOME\C#\ChallengeHighscore\ChallengeHighscore\bin\Debug\ChallengeHighscore.exe
+U:\Documents\Projects\HOME\C#\ChallengeHighscore\ChallengeHighscore\bin\Debug\ChallengeHighscore.pdb
+U:\Documents\Projects\HOME\C#\ChallengeHighscore\ChallengeHighscore\obj\Debug\ChallengeHighscore.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\ChallengeHighscore\ChallengeHighscore\obj\Debug\ChallengeHighscore.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\ChallengeHighscore\ChallengeHighscore\obj\Debug\ChallengeHighscore.exe
+U:\Documents\Projects\HOME\C#\ChallengeHighscore\ChallengeHighscore\obj\Debug\ChallengeHighscore.pdb

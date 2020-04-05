@@ -1,0 +1,11 @@
+U:\Documents\Projects\HOME\C#\Labsheet  13\Labsheet  13\bin\Debug\Labsheet  13.exe.config
+U:\Documents\Projects\HOME\C#\Labsheet  13\Labsheet  13\bin\Debug\Labsheet  13.exe
+U:\Documents\Projects\HOME\C#\Labsheet  13\Labsheet  13\bin\Debug\Labsheet  13.pdb
+U:\Documents\Projects\HOME\C#\Labsheet  13\Labsheet  13\obj\Debug\Labsheet  13.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\Labsheet  13\Labsheet  13\obj\Debug\Labsheet__13.EntryPoint.resources
+U:\Documents\Projects\HOME\C#\Labsheet  13\Labsheet  13\obj\Debug\Labsheet__13.Properties.Resources.resources
+U:\Documents\Projects\HOME\C#\Labsheet  13\Labsheet  13\obj\Debug\Labsheet  13.csproj.GenerateResource.cache
+U:\Documents\Projects\HOME\C#\Labsheet  13\Labsheet  13\obj\Debug\Labsheet  13.exe
+U:\Documents\Projects\HOME\C#\Labsheet  13\Labsheet  13\obj\Debug\Labsheet  13.pdb
+U:\Documents\Projects\HOME\C#\Labsheet  13\Labsheet  13\obj\Debug\Labsheet__13.Question1.resources
+U:\Documents\Projects\HOME\C#\Labsheet  13\Labsheet  13\obj\Debug\Labsheet__13.Prompt.resources

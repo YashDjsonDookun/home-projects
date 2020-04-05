@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\MilesToKilometers\MilesToKilometers\bin\Debug\MilesToKilometers.exe.config
+U:\Documents\Projects\HOME\C#\MilesToKilometers\MilesToKilometers\bin\Debug\MilesToKilometers.exe
+U:\Documents\Projects\HOME\C#\MilesToKilometers\MilesToKilometers\bin\Debug\MilesToKilometers.pdb
+U:\Documents\Projects\HOME\C#\MilesToKilometers\MilesToKilometers\obj\Debug\MilesToKilometers.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\MilesToKilometers\MilesToKilometers\obj\Debug\MilesToKilometers.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\MilesToKilometers\MilesToKilometers\obj\Debug\MilesToKilometers.exe
+U:\Documents\Projects\HOME\C#\MilesToKilometers\MilesToKilometers\obj\Debug\MilesToKilometers.pdb

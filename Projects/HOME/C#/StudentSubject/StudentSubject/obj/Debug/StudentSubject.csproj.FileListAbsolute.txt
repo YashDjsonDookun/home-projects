@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\StudentSubject\StudentSubject\bin\Debug\StudentSubject.exe.config
+U:\Documents\Projects\HOME\C#\StudentSubject\StudentSubject\bin\Debug\StudentSubject.exe
+U:\Documents\Projects\HOME\C#\StudentSubject\StudentSubject\bin\Debug\StudentSubject.pdb
+U:\Documents\Projects\HOME\C#\StudentSubject\StudentSubject\obj\Debug\StudentSubject.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\StudentSubject\StudentSubject\obj\Debug\StudentSubject.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\StudentSubject\StudentSubject\obj\Debug\StudentSubject.exe
+U:\Documents\Projects\HOME\C#\StudentSubject\StudentSubject\obj\Debug\StudentSubject.pdb

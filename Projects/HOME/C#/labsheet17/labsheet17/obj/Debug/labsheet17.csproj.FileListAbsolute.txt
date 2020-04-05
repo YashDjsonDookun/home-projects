@@ -1,0 +1,14 @@
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\bin\Debug\CityDb.mdf
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\bin\Debug\CityDb_log.ldf
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\bin\Debug\labsheet17.exe.config
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\bin\Debug\labsheet17.exe
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\bin\Debug\labsheet17.pdb
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\obj\Debug\labsheet17.Properties.Resources.resources
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\obj\Debug\labsheet17.csproj.GenerateResource.cache
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\obj\Debug\labsheet17.exe
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\obj\Debug\labsheet17.pdb
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\obj\Debug\labsheet17.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\obj\Debug\labsheet17.Question1.resources
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\obj\Debug\labsheet17.Labsheet17.resources
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\obj\Debug\labsheet17.Question2.resources
+U:\Documents\Projects\HOME\C#\labsheet17\labsheet17\obj\Debug\labsheet17.Question3.resources

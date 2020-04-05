@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\TryCatchTest\TryCatchTest\bin\Debug\TryCatchTest.exe.config
+U:\Documents\Projects\HOME\C#\TryCatchTest\TryCatchTest\bin\Debug\TryCatchTest.exe
+U:\Documents\Projects\HOME\C#\TryCatchTest\TryCatchTest\bin\Debug\TryCatchTest.pdb
+U:\Documents\Projects\HOME\C#\TryCatchTest\TryCatchTest\obj\Debug\TryCatchTest.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\TryCatchTest\TryCatchTest\obj\Debug\TryCatchTest.exe
+U:\Documents\Projects\HOME\C#\TryCatchTest\TryCatchTest\obj\Debug\TryCatchTest.pdb
+U:\Documents\Projects\HOME\C#\TryCatchTest\TryCatchTest\obj\Debug\TryCatchTest.csprojAssemblyReference.cache

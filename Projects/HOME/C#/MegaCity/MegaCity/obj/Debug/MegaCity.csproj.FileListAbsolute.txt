@@ -1,0 +1,11 @@
+U:\Documents\Projects\HOME\C#\MegaCity\MegaCity\bin\Debug\citiesDb.mdf
+U:\Documents\Projects\HOME\C#\MegaCity\MegaCity\bin\Debug\citiesDb_log.ldf
+U:\Documents\Projects\HOME\C#\MegaCity\MegaCity\bin\Debug\MegaCity.exe.config
+U:\Documents\Projects\HOME\C#\MegaCity\MegaCity\bin\Debug\MegaCity.exe
+U:\Documents\Projects\HOME\C#\MegaCity\MegaCity\bin\Debug\MegaCity.pdb
+U:\Documents\Projects\HOME\C#\MegaCity\MegaCity\obj\Debug\MegaCity.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\MegaCity\MegaCity\obj\Debug\MegaCity.Form1.resources
+U:\Documents\Projects\HOME\C#\MegaCity\MegaCity\obj\Debug\MegaCity.Properties.Resources.resources
+U:\Documents\Projects\HOME\C#\MegaCity\MegaCity\obj\Debug\MegaCity.csproj.GenerateResource.cache
+U:\Documents\Projects\HOME\C#\MegaCity\MegaCity\obj\Debug\MegaCity.exe
+U:\Documents\Projects\HOME\C#\MegaCity\MegaCity\obj\Debug\MegaCity.pdb

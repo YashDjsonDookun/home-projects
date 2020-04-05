@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\SumOfFirstNumbers\SumOfFirstNumbers\bin\Debug\SumOfFirstNumbers.exe.config
+U:\Documents\Projects\HOME\C#\SumOfFirstNumbers\SumOfFirstNumbers\bin\Debug\SumOfFirstNumbers.exe
+U:\Documents\Projects\HOME\C#\SumOfFirstNumbers\SumOfFirstNumbers\bin\Debug\SumOfFirstNumbers.pdb
+U:\Documents\Projects\HOME\C#\SumOfFirstNumbers\SumOfFirstNumbers\obj\Debug\SumOfFirstNumbers.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\SumOfFirstNumbers\SumOfFirstNumbers\obj\Debug\SumOfFirstNumbers.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\SumOfFirstNumbers\SumOfFirstNumbers\obj\Debug\SumOfFirstNumbers.exe
+U:\Documents\Projects\HOME\C#\SumOfFirstNumbers\SumOfFirstNumbers\obj\Debug\SumOfFirstNumbers.pdb

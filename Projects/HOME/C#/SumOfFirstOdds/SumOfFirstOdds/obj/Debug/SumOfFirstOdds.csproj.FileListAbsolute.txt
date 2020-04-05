@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\SumOfFirstOdds\SumOfFirstOdds\bin\Debug\SumOfFirstOdds.exe.config
+U:\Documents\Projects\HOME\C#\SumOfFirstOdds\SumOfFirstOdds\bin\Debug\SumOfFirstOdds.exe
+U:\Documents\Projects\HOME\C#\SumOfFirstOdds\SumOfFirstOdds\bin\Debug\SumOfFirstOdds.pdb
+U:\Documents\Projects\HOME\C#\SumOfFirstOdds\SumOfFirstOdds\obj\Debug\SumOfFirstOdds.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\SumOfFirstOdds\SumOfFirstOdds\obj\Debug\SumOfFirstOdds.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\SumOfFirstOdds\SumOfFirstOdds\obj\Debug\SumOfFirstOdds.exe
+U:\Documents\Projects\HOME\C#\SumOfFirstOdds\SumOfFirstOdds\obj\Debug\SumOfFirstOdds.pdb

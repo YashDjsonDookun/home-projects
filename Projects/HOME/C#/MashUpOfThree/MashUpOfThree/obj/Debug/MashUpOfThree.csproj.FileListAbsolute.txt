@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\MashUpOfThree\MashUpOfThree\bin\Debug\MashUpOfThree.exe.config
+U:\Documents\Projects\HOME\C#\MashUpOfThree\MashUpOfThree\bin\Debug\MashUpOfThree.exe
+U:\Documents\Projects\HOME\C#\MashUpOfThree\MashUpOfThree\bin\Debug\MashUpOfThree.pdb
+U:\Documents\Projects\HOME\C#\MashUpOfThree\MashUpOfThree\obj\Debug\MashUpOfThree.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\MashUpOfThree\MashUpOfThree\obj\Debug\MashUpOfThree.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\MashUpOfThree\MashUpOfThree\obj\Debug\MashUpOfThree.exe
+U:\Documents\Projects\HOME\C#\MashUpOfThree\MashUpOfThree\obj\Debug\MashUpOfThree.pdb

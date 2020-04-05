@@ -1,0 +1,10 @@
+U:\Documents\Projects\HOME\C#\FormtestClass\FormtestClass\bin\Debug\FormtestClass.exe.config
+U:\Documents\Projects\HOME\C#\FormtestClass\FormtestClass\bin\Debug\FormtestClass.exe
+U:\Documents\Projects\HOME\C#\FormtestClass\FormtestClass\bin\Debug\FormtestClass.pdb
+U:\Documents\Projects\HOME\C#\FormtestClass\FormtestClass\obj\Debug\FormtestClass.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\FormtestClass\FormtestClass\obj\Debug\FormtestClass.Form1.resources
+U:\Documents\Projects\HOME\C#\FormtestClass\FormtestClass\obj\Debug\FormtestClass.Properties.Resources.resources
+U:\Documents\Projects\HOME\C#\FormtestClass\FormtestClass\obj\Debug\FormtestClass.csproj.GenerateResource.cache
+U:\Documents\Projects\HOME\C#\FormtestClass\FormtestClass\obj\Debug\FormtestClass.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\FormtestClass\FormtestClass\obj\Debug\FormtestClass.exe
+U:\Documents\Projects\HOME\C#\FormtestClass\FormtestClass\obj\Debug\FormtestClass.pdb

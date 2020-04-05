@@ -1,0 +1,10 @@
+U:\Documents\Projects\HOME\C#\GradeScheme_Form\GradeScheme_Form\bin\Debug\GradeScheme_Form.exe.config
+U:\Documents\Projects\HOME\C#\GradeScheme_Form\GradeScheme_Form\bin\Debug\GradeScheme_Form.exe
+U:\Documents\Projects\HOME\C#\GradeScheme_Form\GradeScheme_Form\bin\Debug\GradeScheme_Form.pdb
+U:\Documents\Projects\HOME\C#\GradeScheme_Form\GradeScheme_Form\obj\Debug\GradeScheme_Form.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\GradeScheme_Form\GradeScheme_Form\obj\Debug\GradeScheme_Form.Form1.resources
+U:\Documents\Projects\HOME\C#\GradeScheme_Form\GradeScheme_Form\obj\Debug\GradeScheme_Form.Properties.Resources.resources
+U:\Documents\Projects\HOME\C#\GradeScheme_Form\GradeScheme_Form\obj\Debug\GradeScheme_Form.csproj.GenerateResource.cache
+U:\Documents\Projects\HOME\C#\GradeScheme_Form\GradeScheme_Form\obj\Debug\GradeScheme_Form.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\GradeScheme_Form\GradeScheme_Form\obj\Debug\GradeScheme_Form.exe
+U:\Documents\Projects\HOME\C#\GradeScheme_Form\GradeScheme_Form\obj\Debug\GradeScheme_Form.pdb

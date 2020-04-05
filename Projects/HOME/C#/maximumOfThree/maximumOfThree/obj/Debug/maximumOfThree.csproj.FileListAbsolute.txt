@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\maximumOfThree\maximumOfThree\bin\Debug\maximumOfThree.exe.config
+U:\Documents\Projects\HOME\C#\maximumOfThree\maximumOfThree\bin\Debug\maximumOfThree.exe
+U:\Documents\Projects\HOME\C#\maximumOfThree\maximumOfThree\bin\Debug\maximumOfThree.pdb
+U:\Documents\Projects\HOME\C#\maximumOfThree\maximumOfThree\obj\Debug\maximumOfThree.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\maximumOfThree\maximumOfThree\obj\Debug\maximumOfThree.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\maximumOfThree\maximumOfThree\obj\Debug\maximumOfThree.exe
+U:\Documents\Projects\HOME\C#\maximumOfThree\maximumOfThree\obj\Debug\maximumOfThree.pdb

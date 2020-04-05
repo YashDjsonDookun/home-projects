@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\NumberOfDays\NumberOfDays\bin\Debug\NumberOfDays.exe.config
+U:\Documents\Projects\HOME\C#\NumberOfDays\NumberOfDays\bin\Debug\NumberOfDays.exe
+U:\Documents\Projects\HOME\C#\NumberOfDays\NumberOfDays\bin\Debug\NumberOfDays.pdb
+U:\Documents\Projects\HOME\C#\NumberOfDays\NumberOfDays\obj\Debug\NumberOfDays.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\NumberOfDays\NumberOfDays\obj\Debug\NumberOfDays.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\NumberOfDays\NumberOfDays\obj\Debug\NumberOfDays.exe
+U:\Documents\Projects\HOME\C#\NumberOfDays\NumberOfDays\obj\Debug\NumberOfDays.pdb

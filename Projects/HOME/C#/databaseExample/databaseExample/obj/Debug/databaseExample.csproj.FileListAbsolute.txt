@@ -1,0 +1,12 @@
+U:\Documents\Projects\HOME\C#\databaseExample\databaseExample\bin\Debug\Database1.mdf
+U:\Documents\Projects\HOME\C#\databaseExample\databaseExample\bin\Debug\Database1_log.ldf
+U:\Documents\Projects\HOME\C#\databaseExample\databaseExample\bin\Debug\databaseExample.exe.config
+U:\Documents\Projects\HOME\C#\databaseExample\databaseExample\bin\Debug\databaseExample.exe
+U:\Documents\Projects\HOME\C#\databaseExample\databaseExample\bin\Debug\databaseExample.pdb
+U:\Documents\Projects\HOME\C#\databaseExample\databaseExample\obj\Debug\databaseExample.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\databaseExample\databaseExample\obj\Debug\databaseExample.Form1.resources
+U:\Documents\Projects\HOME\C#\databaseExample\databaseExample\obj\Debug\databaseExample.Properties.Resources.resources
+U:\Documents\Projects\HOME\C#\databaseExample\databaseExample\obj\Debug\databaseExample.csproj.GenerateResource.cache
+U:\Documents\Projects\HOME\C#\databaseExample\databaseExample\obj\Debug\databaseExample.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\databaseExample\databaseExample\obj\Debug\databaseExample.exe
+U:\Documents\Projects\HOME\C#\databaseExample\databaseExample\obj\Debug\databaseExample.pdb

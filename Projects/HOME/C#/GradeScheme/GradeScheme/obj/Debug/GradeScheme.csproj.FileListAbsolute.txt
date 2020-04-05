@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\GradeScheme\GradeScheme\bin\Debug\GradeScheme.exe.config
+U:\Documents\Projects\HOME\C#\GradeScheme\GradeScheme\bin\Debug\GradeScheme.exe
+U:\Documents\Projects\HOME\C#\GradeScheme\GradeScheme\bin\Debug\GradeScheme.pdb
+U:\Documents\Projects\HOME\C#\GradeScheme\GradeScheme\obj\Debug\GradeScheme.csprojAssemblyReference.cache
+U:\Documents\Projects\HOME\C#\GradeScheme\GradeScheme\obj\Debug\GradeScheme.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\GradeScheme\GradeScheme\obj\Debug\GradeScheme.exe
+U:\Documents\Projects\HOME\C#\GradeScheme\GradeScheme\obj\Debug\GradeScheme.pdb

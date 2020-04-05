@@ -1,0 +1,7 @@
+U:\Documents\Projects\HOME\C#\StudentMarkings\StudentMarkings\bin\Debug\StudentMarkings.exe.config
+U:\Documents\Projects\HOME\C#\StudentMarkings\StudentMarkings\bin\Debug\StudentMarkings.exe
+U:\Documents\Projects\HOME\C#\StudentMarkings\StudentMarkings\bin\Debug\StudentMarkings.pdb
+U:\Documents\Projects\HOME\C#\StudentMarkings\StudentMarkings\obj\Debug\StudentMarkings.csproj.CoreCompileInputs.cache
+U:\Documents\Projects\HOME\C#\StudentMarkings\StudentMarkings\obj\Debug\StudentMarkings.exe
+U:\Documents\Projects\HOME\C#\StudentMarkings\StudentMarkings\obj\Debug\StudentMarkings.pdb
+U:\Documents\Projects\HOME\C#\StudentMarkings\StudentMarkings\obj\Debug\StudentMarkings.csprojAssemblyReference.cache
