@@ -24,7 +24,6 @@ namespace SumOfFirstOdds
                 sum += i;
                 i = i + 2;
             }
-
             Console.WriteLine("\nTotal: {0}", sum);
             Console.Read();
         }
