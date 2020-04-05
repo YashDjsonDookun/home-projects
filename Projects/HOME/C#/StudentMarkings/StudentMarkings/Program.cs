@@ -1,5 +1,5 @@
 ﻿/*
- * StudentID: 1810111
+ * StudentID:
  * StudentName: Yash Djson Dookun
  * Task: 5.	A program that prompts the user to enter the number of subjects 
  *          she/he wants to manipulate and your program should calculate the 
